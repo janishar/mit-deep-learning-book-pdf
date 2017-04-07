@@ -1,6 +1,8 @@
 # MIT Deep Learning Book (beautiful and flowless PDF version)
 MIT Deep Learning Book in PDF format (complete and parts) by Ian Goodfellow, Yoshua Bengio and Aaron Courville.
 
+# If this repository helps you in anyway, show your love :heart: by putting a :star: on this project :v:
+
 # Deep Learning
 An MIT Press book
 Ian Goodfellow and Yoshua Bengio and Aaron Courville
