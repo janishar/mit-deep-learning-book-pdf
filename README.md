@@ -1,3 +1,5 @@
+[![Download](https://img.shields.io/badge/download-book-brightgreen.svg)](https://github.com/janishar/mit-deep-learning-book-pdf/raw/master/complete-book-pdf/deeplearningbook.pdf)
+
 # MIT Deep Learning Book (beautiful and flowless PDF version)
 MIT Deep Learning Book in PDF format (complete and parts) by Ian Goodfellow, Yoshua Bengio and Aaron Courville.
 
