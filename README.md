@@ -1,7 +1,7 @@
 [![Download](https://img.shields.io/badge/download-bookmarked%20book-orange.svg)](https://github.com/janishar/mit-deep-learning-book-pdf/raw/master/complete-book-bookmarked-pdf/deeplearningbook.pdf)
 [![Download](https://img.shields.io/badge/download-book-brightgreen.svg)](https://github.com/janishar/mit-deep-learning-book-pdf/raw/master/complete-book-pdf/deeplearningbook.pdf)
 
-# MIT Deep Learning Book (beautiful and flowless PDF version)
+# MIT Deep Learning Book (beautiful and flawless PDF version)
 MIT Deep Learning Book in PDF format (complete and parts) by Ian Goodfellow, Yoshua Bengio and Aaron Courville.
 
 # If this repository helps you in anyway, show your love :heart: by putting a :star: on this project :v:
