@@ -15,7 +15,7 @@ This is the most comprehensive book available on the deep learning and available
 **Comment on this book by Elon Musk**
 >Written by three experts in the field, Deep Learning is the only comprehensive book on the subject." -- Elon Musk, cochair of OpenAI; cofounder and CEO of Tesla and SpaceX
 
-**This is not available as PDF download. So, I have taken the prints of the HTML content and binded into a flowless PDF version of the book, as suggested by the website itself**
+**This is not available as PDF download. So, I have taken the prints of the HTML content and binded into a flawless PDF version of the book, as suggested by the website itself**
 
 **http://www.deeplearningbook.org/ says:**
 >What is the best way to print the HTML format?
