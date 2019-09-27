@@ -24,7 +24,7 @@ This is the most comprehensive book available on the deep learning and available
 
 **This repository contains**
 1. The pdf version of the book which is available in html at http://www.deeplearningbook.org/
-2. The book is availabe in chapter wise PDFs as well as complete book in PDF.
+2. The book is available in chapter wise PDFs as well as complete book in PDF.
 
 **Some useful links for this learning:**
 1. [Exercises](http://www.deeplearningbook.org/exercises.html)
