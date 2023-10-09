@@ -9,12 +9,11 @@ A good project structure is very important for data-science and data-analytics w
 
 [https://github.com/janishar/data-analytics-project-template](https://github.com/janishar/data-analytics-project-template)
 
-## About The Author
-I [Janishar Ali](https://janisharali.com) enjoy sharing my 10 years of learning in tech industry with the community. You can connect with me here:
+# About The Author
+You can connect with me here:
+* [Janishar Ali](https://janisharali.com)
 * [Twitter](https://twitter.com/janisharali)
-* [LinkedIn](https://www.linkedin.com/in/janishar-ali)
-* [Instagram](https://www.instagram.com/janisharali)
-* [Learn from My YouTube Channel](https://www.youtube.com/@janisharali)
+* [YouTube Channel](https://www.youtube.com/@unusualcode)
 
 ## If this repository helps you in anyway, show your love :heart: by putting a :star: on this project :v:
 
